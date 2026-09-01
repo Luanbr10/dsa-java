@@ -1,4 +1,4 @@
-/*
+/**
     Problema 1003 - Soma Simples
     Exibir a soma de 2 números inteiros, com a impressão "SOMA = valor"
     https://judge.beecrowd.com/pt/problems/view/1003

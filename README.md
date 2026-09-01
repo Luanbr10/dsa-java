@@ -21,7 +21,13 @@ Organizado pelas categorias oficiais do Beecrowd, criadas conforme resolvo os pr
 - `7-grafos/`
 - `8-geometria-computacional/`
 
-Cada arquivo segue o padrão, que vai ser o numero do problema da pasta em`` (ex: `1001-extremamente-basico.java`).
+## 📝 Convenção de commits e arquivos.java
+
+Cada commit `feat` documenta os exercícios resolvidos em uma sessão de estudo (geralmente 1h–1h30/dia).
+Exemplo: `feat: resolver problemas 1007-1010 (Iniciante)` significa que esses quatro problemas foram resolvidos na mesma sessão.
+
+Cada arquivo segue o padrão PascalCase (ex: `ExtremamenteBasico.java`).
+Cada commit documenta todos os exercícios resolvidos naquele dia — a meta é dedicar entre 1h e 1h30 por dia.
 
 ## 🛠<fe0f> Stack usada
 

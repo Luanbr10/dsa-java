@@ -21,7 +21,7 @@ Organizado pelas categorias oficiais do Beecrowd, criadas conforme resolvo os pr
 - `7-grafos/`
 - `8-geometria-computacional/`
 
-Cada arquivo segue o padrão `numero-nome-do-problema.java` (ex: `1001-extremamente-basico.java`).
+Cada arquivo segue o padrão, que vai ser o numero do problema da pasta em`` (ex: `1001-extremamente-basico.java`).
 
 ## 🛠<fe0f> Stack usada
 
